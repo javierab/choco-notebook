@@ -1,4 +1,4 @@
-# other
+# Choco tutorial
 
 To run the notebook, you need to install iPython Notebook -- you can find more information in 
 http://ipython.org/notebook.html
